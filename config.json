@@ -1,0 +1,6 @@
+{
+    "unet_model_path": "C:\\Users\\Lenovo\\Desktop\\bitirme\\models\\final_model.h5",
+    "trained_model_path": "C:\\Users\\Lenovo\\Desktop\\bitirme\\models\\trained_model_size256.h5",
+    "scaler_path": "C:\\Users\\Lenovo\\Desktop\\bitirme\\models\\scaler.joblib",
+    "knn_model_path": "C:\\Users\\Lenovo\\Desktop\\bitirme\\models\\knn_model.joblib"
+}
